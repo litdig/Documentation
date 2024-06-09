@@ -1,3 +1,10 @@
+<div id="sideMenu"> 
+	[TOC] 
+</div> 
+<div id="mainContent"> 
+	[CONTENT] 
+</div> 
+
 **Table of content:**
 - [Hello World](#item-one)
 - [First Item](#item-two)
